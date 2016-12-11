@@ -1,4 +1,7 @@
-﻿Сервлеты. Java API. Работа с XML
+﻿[![Build Status](https://travis-ci.org/levelp/java_08.svg?branch=master)](https://travis-ci.org/levelp/java_08)
+[![Coverage Status](https://coveralls.io/repos/github/levelp/java_08/badge.svg?branch=master)](https://coveralls.io/github/levelp/java_08?branch=master)
+
+Сервлеты. Java API. Работа с XML
 ================================
 
 Разбор домашнего задания.
@@ -31,4 +34,3 @@ Java API: JAXB, StAX, XPath. Сохранение данных приложен�
 * Разобраться с Atomic + volatile
 * Реализовать редактирование Section/TimeSection.
 * Поставить клиента PostgreSql: SQL Manager Freeware (full installation package) или pgAdmin 
-
